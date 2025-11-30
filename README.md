@@ -1,16 +1,22 @@
-## Hi there 👋
+# **👋 Hi, I'm Kohinur Akter Sonia**
+I completed my **Bachelor’s and Master’s degrees in Urdu** from the **University of Dhaka**. I have experience in digital operations and four years of remote work in data entry and data support.
+I have been involved in content documentation, event coordination, and social awareness activities. Currently, I am learning **Power BI**, **Tableau**, and data visualization to strengthen my analytical skills.
 
-<!--
-**kohinur-sonia/Kohinur-Sonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🛠 Skills**
+* Data entry & information management
+* MS Word, Excel, PowerPoint
+* Google Docs, Sheets, Slides
+* Power BI (beginner)
+* Tableau (beginner)
+* Content documentation
 
-Here are some ideas to get you started:
+## **🌐 Language Skills**
+* **Urdu** — advanced 
+* **English** — proficient
+* **Spanish** — elementary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **📌 Interests**
+* Data visualization
+* Digital content operations
+* Documentation and workflow management
+* Learning new tools and productivity skills
