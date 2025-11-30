@@ -27,40 +27,54 @@ This repository demonstrates my analysis of a retail dataset, exploring sales, p
 2. Added calculated columns and measures in Power BI (e.g., Month Name, Sum of Orders).
 3. Built dashboards for storytelling and visual exploration.
 
-## Dataset
+## 📁 Dataset
 * Retail dataset columns: 
   * Order ID, Sales, Profit, Quantity
   * Region & State
   * Category & Subcategory
 * Prepared for business analytics: sorting, aggregation, and mapping ready
 
-## Tools & Techniques
+## 🛠 Tools & Techniques
 * **Power BI:** Data modeling, DAX calculations, dashboards
 * **Tableau:** Rapid visual exploration, storytelling dashboards
 * **Visualization Types:** Bar charts, line charts, bubble charts, maps, stacked bars, pie charts
 
-## Visualizations & Insights
+## 📊 Visualizations & Insights
 1. **Profit by Category** – Bar chart
-2. **Quantity, Sales & Profit by Category** – Text table
-3. **Region-wise Sales** – Bubble chart
-4. **State-wise Profit Map** – Filled map using latitude & longitude
-5. **Yearly & Monthly Sales Volume** – Line chart
-6. **Category & Sub-category Analysis** – Stacked bar chart
+![Bar tableau](https://github.com/user-attachments/assets/e634c839-70f4-4a27-8576-5ab23cf426b9)
 
-**Insights:**
+2. **Quantity, Sales & Profit by Category** – Text table
+![Table tableau](https://github.com/user-attachments/assets/004596b7-b482-40b8-bcbe-66a853d7b01c)
+
+3. **Region-wise Sales** – Bubble chart
+![bubble tableau](https://github.com/user-attachments/assets/265453b5-e1e5-420e-b277-a327af7146f8)
+
+4. **State-wise Profit Map** – Filled map using latitude & longitude
+****![Map tableau](https://github.com/user-attachments/assets/f38949fd-daa1-4b40-85dc-d24bd62faa5e)
+
+5. **Yearly & Monthly Sales Volume** – Line chart
+![Line tableau](https://github.com/user-attachments/assets/49073ae5-d2ff-4091-aade-eeab725a38b9)
+
+6. **Category Analysis** – Stacked bar chart
+![Bar tableau](https://github.com/user-attachments/assets/5eca327a-ed6f-497d-ab5e-e1b76eb25e9b)
+
+7. **Dashboard Visualisation** - PowerBi
+![dashboard powerbi](https://github.com/user-attachments/assets/3593dd92-9d3f-46a2-ad9d-486c288b1dc3)
+
+** 🧠 Insights:**
 * December is the most profitable month
 * Higher discounts often lead to higher sales
 * Central region and Consumer segment are strong performers
 * California and New York contribute the most to total revenue
 * Technology & Office Supplies show strong performance; some sub-categories show inconsistent profitability
 
-## Dashboard & Project Files
+## 🔗 Dashboard & Project Files
 * **Power BI File (.pbix)** → (https://drive.google.com/drive/u/1/folders/1HvIJfOGf3BWER1mR-SMeWkghEGq63FRT)
 * **Tableau File (.twbx)** → (https://public.tableau.com/app/profile/kohinur.akter/viz/SalesDashboard2025_17645188687700/Dashboard1?publish=yes)
 * Screenshots included in `/images` folder
 > Open the `.pbix` file in Power BI Desktop or the `.twbx` file in Tableau Desktop/Public.
 
-## Summary
+## 📝 Summary
 This project demonstrates the ability to:
 * Connect, clean, and model data
 * Build professional dashboards in Power BI and Tableau
